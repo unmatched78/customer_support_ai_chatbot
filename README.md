@@ -1,6 +1,6 @@
 # 🤖 Customer Support AI Platform
 
-A production-ready, full-stack customer support platform powered by AI, similar to Decagon AI. Built with FastAPI, React TypeScript, and Google Gemini API with MCP (Model Context Protocol) integration.
+A full-stack customer support platform powered by AI. Built with FastAPI, React TypeScript, and Google Gemini API with a bit MCP (Model Context Protocol) integration.
 
 ![Platform Demo](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20%2B%20React%20%2B%20TypeScript-blue)
